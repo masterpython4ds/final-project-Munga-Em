@@ -10,4 +10,4 @@ dependencies:
   - scikit-learn
   - category_encoders
   - pip
-prefix: C:\Users\hp\anaconda3\envs\Bigmart
+  - catboost
